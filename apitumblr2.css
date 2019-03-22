@@ -1,0 +1,19 @@
+#list-data li{
+    display: inline-block;
+    max-width: 200px;
+}
+
+li img{
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+p{
+    margin: 0;
+    text-align: -webkit-center;
+    margin-bottom: 5px;
+}
+
+button{
+    width: 100px;
+}
